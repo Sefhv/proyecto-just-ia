@@ -71,7 +71,7 @@ git clone https://github.com/tu-usuario/proyecto-just-ia.git
 cd proyecto-just-ia
 ```
 
-2. Instalar el paquete en modo desarrollo:
+2. Instalar el paquete en modo desarrollo (este paso es obligatorio para que el comando `justia` funcione):
 
 ```bash
 pip install -e ".[dev]"
@@ -85,7 +85,7 @@ python -m spacy download es_core_news_sm
 
 ## Ejecución
 
-Ejecutar el MVP completo desde la raíz del proyecto:
+Una vez instalado, ejecutar el MVP completo:
 
 ```bash
 justia
