@@ -2,8 +2,7 @@
 
 **Autor:** Sergio Fabian Hernandez Vivas  
 **Institución:** Corporación Universitaria de Asturias  
-**Versión:** 0.1.0  
-**Licencia:** MIT
+**Versión:** 0.1.0
 
 ---
 
