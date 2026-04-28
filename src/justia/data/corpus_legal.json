@@ -1,0 +1,470 @@
+[
+    {
+        "id": "caso_001",
+        "texto": "La demandante María Fernanda López solicita ante el Juzgado Primero de Familia de Bogotá la disolución del vínculo matrimonial conforme a la Ley 25 de 1992, alegando separación de hecho por más de dos años con el señor Carlos Andrés Ramírez.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-15"
+        }
+    },
+    {
+        "id": "caso_002",
+        "texto": "El señor Juan Pablo Herrera interpone demanda de responsabilidad civil extracontractual ante el Juzgado Tercero Civil del Circuito de Medellín por daños causados a su propiedad, solicitando indemnización conforme al artículo 2341 del Código Civil colombiano.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-16"
+        }
+    },
+    {
+        "id": "caso_003",
+        "texto": "La Fiscalía General de la Nación formula imputación contra Pedro Luis Gómez por el delito de hurto calificado y agravado tipificado en los artículos 239 y 241 de la Ley 599 de 2000, Código Penal colombiano, ante el Juzgado Segundo Penal Municipal de Cali.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-17"
+        }
+    },
+    {
+        "id": "caso_004",
+        "texto": "La trabajadora Ana María Rodríguez presenta demanda laboral ordinaria ante el Juzgado Primero Laboral del Circuito de Barranquilla por despido sin justa causa, reclamando el pago de indemnización conforme al artículo 64 del Código Sustantivo del Trabajo.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-18"
+        }
+    },
+    {
+        "id": "caso_005",
+        "texto": "La señora Luz Dary Martínez denuncia ante la Comisaría de Familia de Soacha hechos constitutivos de violencia intrafamiliar por parte de su cónyuge, conforme a la Ley 1257 de 2008 sobre violencia contra la mujer y la Ley 294 de 1996.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-19"
+        }
+    },
+    {
+        "id": "caso_006",
+        "texto": "El demandante solicita ante el Tribunal Superior del Distrito Judicial de Bogotá la nulidad del contrato de compraventa de bien inmueble por vicios del consentimiento, conforme a los artículos 1740 y siguientes del Código Civil colombiano.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-20"
+        }
+    },
+    {
+        "id": "caso_007",
+        "texto": "Se adelanta proceso penal por el delito de lesiones personales agravadas conforme a la Ley 906 de 2004, Código de Procedimiento Penal, contra el imputado Roberto Sánchez Díaz, quien causó lesiones a la víctima durante una riña callejera en el municipio de Bucaramanga.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-21"
+        }
+    },
+    {
+        "id": "caso_008",
+        "texto": "El sindicato de trabajadores de la empresa Textiles del Caribe S.A. presenta pliego de peticiones ante el Ministerio del Trabajo solicitando aumento salarial y mejoras en las condiciones de seguridad laboral conforme a la Ley 50 de 1990.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-22"
+        }
+    },
+    {
+        "id": "caso_009",
+        "texto": "La Corte Constitucional de Colombia revisa la acción de tutela interpuesta por la señora Gloria Esperanza Vargas para la protección del derecho a la custodia de sus hijos menores de edad, conforme a la Ley 1098 de 2006, Código de la Infancia y la Adolescencia.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-23"
+        }
+    },
+    {
+        "id": "caso_010",
+        "texto": "Se presenta demanda ejecutiva singular ante el Juzgado Quinto Civil Municipal de Bogotá para el cobro de obligación contenida en pagaré por valor de cincuenta millones de pesos, conforme al artículo 422 del Código General del Proceso.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-24"
+        }
+    },
+    {
+        "id": "caso_011",
+        "texto": "La Fiscalía solicita medida de aseguramiento contra Diana Patricia Moreno por el delito de estafa agravada tipificado en el artículo 246 de la Ley 599 de 2000, ante el Juzgado de Control de Garantías de Pereira.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-25"
+        }
+    },
+    {
+        "id": "caso_012",
+        "texto": "El trabajador Héctor Fabio Castillo demanda a la empresa Construcciones del Valle S.A.S. ante el Juzgado Segundo Laboral del Circuito de Cali por el no pago de prestaciones sociales, incluyendo cesantías, intereses sobre cesantías y prima de servicios.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-26"
+        }
+    },
+    {
+        "id": "caso_013",
+        "texto": "El Instituto Colombiano de Bienestar Familiar inicia proceso de restablecimiento de derechos del menor Sebastián Alejandro Torres, quien se encuentra en situación de abandono, conforme a la Ley 1098 de 2006 y la Convención sobre los Derechos del Niño.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-27"
+        }
+    },
+    {
+        "id": "caso_014",
+        "texto": "Se interpone recurso de apelación ante el Tribunal Superior del Distrito Judicial de Cundinamarca contra la sentencia proferida por el Juzgado Cuarto Civil del Circuito de Bogotá en proceso de servidumbre de tránsito sobre predio rural ubicado en Fusagasugá.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-28"
+        }
+    },
+    {
+        "id": "caso_015",
+        "texto": "El procesado Andrés Felipe Muñoz se acoge a preacuerdo con la Fiscalía por el delito de tráfico de estupefacientes tipificado en el artículo 376 de la Ley 599 de 2000, ante el Juzgado Tercero Penal del Circuito Especializado de Bogotá.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-29"
+        }
+    },
+    {
+        "id": "caso_016",
+        "texto": "La empleada doméstica Carmen Rosa Patiño reclama ante el Juzgado Laboral del Circuito de Manizales el reconocimiento de la pensión de vejez conforme a la Ley 100 de 1993, Sistema General de Seguridad Social, tras haber cotizado las semanas requeridas.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-01-30"
+        }
+    },
+    {
+        "id": "caso_017",
+        "texto": "La víctima de violencia patrimonial solicita medida de protección ante la Comisaría de Familia de Kennedy, denunciando que su expareja destruyó bienes del hogar y se apropió de los ahorros familiares, conforme a la Ley 1257 de 2008.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-01"
+        }
+    },
+    {
+        "id": "caso_018",
+        "texto": "Se adelanta proceso de pertenencia por prescripción adquisitiva de dominio ante el Juzgado Sexto Civil del Circuito de Cartagena, conforme al artículo 2512 del Código Civil y la Ley 1564 de 2012, Código General del Proceso.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-02"
+        }
+    },
+    {
+        "id": "caso_019",
+        "texto": "La Corte Suprema de Justicia, Sala de Casación Penal, revisa el recurso extraordinario de casación interpuesto por la defensa de Óscar Iván Restrepo, condenado por el delito de homicidio culposo conforme al artículo 109 de la Ley 599 de 2000.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-03"
+        }
+    },
+    {
+        "id": "caso_020",
+        "texto": "El exempleado Jorge Enrique Bernal demanda a la empresa Alimentos del Norte S.A. por acoso laboral conforme a la Ley 1010 de 2006, solicitando indemnización por los perjuicios morales y materiales sufridos durante su vinculación laboral.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-04"
+        }
+    },
+    {
+        "id": "caso_021",
+        "texto": "La señora Esperanza del Carmen Ríos solicita ante el Juzgado de Familia de Villavicencio la fijación de cuota alimentaria para sus dos hijos menores de edad, conforme al artículo 411 del Código Civil y la Ley 1098 de 2006.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-05"
+        }
+    },
+    {
+        "id": "caso_022",
+        "texto": "Se presenta demanda de reivindicación de dominio ante el Juzgado Segundo Civil del Circuito de Ibagué por la posesión irregular de un lote de terreno urbano, conforme al artículo 946 del Código Civil colombiano.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-06"
+        }
+    },
+    {
+        "id": "caso_023",
+        "texto": "Se formula acusación contra Liliana Marcela Quintero por el delito de falsedad en documento privado tipificado en el artículo 289 de la Ley 599 de 2000, ante el Juzgado Primero Penal del Circuito de Armenia.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-07"
+        }
+    },
+    {
+        "id": "caso_024",
+        "texto": "La trabajadora Sandra Milena Ospina interpone acción de tutela ante el Juzgado Laboral de Pasto por vulneración del fuero de maternidad, al haber sido despedida durante su período de lactancia sin autorización del Ministerio del Trabajo.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-08"
+        }
+    },
+    {
+        "id": "caso_025",
+        "texto": "La víctima de violencia económica denuncia ante la Fiscalía que su cónyuge le impide acceder a los recursos económicos del hogar y controla todos los ingresos familiares, configurando violencia de género conforme a la Ley 1257 de 2008.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-09"
+        }
+    },
+    {
+        "id": "caso_026",
+        "texto": "Se adelanta proceso de sucesión intestada ante la Notaría Quinta del Círculo de Bogotá por el fallecimiento del señor Ernesto Gutiérrez Peña, conforme a las normas del Código Civil colombiano sobre sucesiones y la Ley 1564 de 2012.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-10"
+        }
+    },
+    {
+        "id": "caso_027",
+        "texto": "El Juzgado Cuarto Penal Municipal de Medellín con función de control de garantías impone medida de aseguramiento de detención preventiva contra Fabián Andrés Mejía por el delito de extorsión conforme al artículo 244 de la Ley 599 de 2000.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-11"
+        }
+    },
+    {
+        "id": "caso_028",
+        "texto": "El trabajador rural Jaime Orlando Suárez demanda al empleador por el no reconocimiento de la prima de servicios y las vacaciones adeudadas conforme al Código Sustantivo del Trabajo, ante el Juzgado Laboral del Circuito de Tunja.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-12"
+        }
+    },
+    {
+        "id": "caso_029",
+        "texto": "El Defensor de Familia del ICBF solicita ante el Juzgado de Familia de Bucaramanga la declaratoria de adoptabilidad del menor de edad que ha sido víctima de maltrato infantil, conforme a la Ley 1098 de 2006 y el Decreto 1069 de 2015.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-13"
+        }
+    },
+    {
+        "id": "caso_030",
+        "texto": "Se interpone demanda de responsabilidad médica ante el Juzgado Séptimo Civil del Circuito de Bogotá contra la clínica por negligencia en procedimiento quirúrgico, solicitando indemnización de perjuicios conforme a la Ley 23 de 1981.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-14"
+        }
+    },
+    {
+        "id": "caso_031",
+        "texto": "La Fiscalía General de la Nación investiga al señor Mauricio Alejandro Duarte por el delito de peculado por apropiación tipificado en el artículo 397 de la Ley 599 de 2000, en su calidad de servidor público del municipio de Neiva.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-15"
+        }
+    },
+    {
+        "id": "caso_032",
+        "texto": "La empresa Transportes Andinos Ltda. es demandada ante el Juzgado Tercero Laboral del Circuito de Bogotá por el accidente de trabajo sufrido por el conductor Luis Alberto Pineda, reclamando indemnización conforme a la Ley 1562 de 2012 del Sistema de Riesgos Laborales.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-16"
+        }
+    },
+    {
+        "id": "caso_033",
+        "texto": "La señora Claudia Patricia Henao solicita medida de protección por violencia intrafamiliar ante la Comisaría de Familia de Bello, denunciando agresiones físicas y psicológicas por parte de su compañero permanente, conforme a la Ley 294 de 1996 y la Ley 575 de 2000.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-17"
+        }
+    },
+    {
+        "id": "caso_034",
+        "texto": "Se presenta demanda de resolución de contrato de arrendamiento ante el Juzgado Octavo Civil Municipal de Bogotá por incumplimiento en el pago de cánones, conforme a la Ley 820 de 2003 sobre arrendamiento de vivienda urbana.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-18"
+        }
+    },
+    {
+        "id": "caso_035",
+        "texto": "Se adelanta juicio oral contra Germán Eduardo Cifuentes por el delito de violencia intrafamiliar agravada tipificado en el artículo 229 de la Ley 599 de 2000, ante el Juzgado Segundo Penal Municipal de Manizales, con representación de la víctima por parte de la Defensoría del Pueblo.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-19"
+        }
+    },
+    {
+        "id": "caso_036",
+        "texto": "La Administradora de Fondos de Pensiones Porvenir S.A. niega la pensión de invalidez al señor Ramiro Antonio Flórez, quien interpone demanda ante el Juzgado Laboral del Circuito de Pereira conforme a la Ley 100 de 1993 y el Decreto 917 de 1999.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-20"
+        }
+    },
+    {
+        "id": "caso_037",
+        "texto": "La abuela materna solicita ante el Juzgado de Familia de Cúcuta la custodia y cuidado personal de sus nietos menores de edad, quienes han sido víctimas de negligencia por parte de ambos padres, conforme a la Ley 1098 de 2006.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-21"
+        }
+    },
+    {
+        "id": "caso_038",
+        "texto": "El acreedor hipotecario Banco Agrario de Colombia S.A. inicia proceso ejecutivo hipotecario ante el Juzgado Primero Civil del Circuito de Popayán para el cobro de crédito garantizado con hipoteca sobre bien inmueble rural, conforme a la Ley 546 de 1999.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-22"
+        }
+    },
+    {
+        "id": "caso_039",
+        "texto": "Se profiere sentencia condenatoria contra Yesid Fernando Castaño por el delito de acceso carnal violento tipificado en el artículo 205 de la Ley 599 de 2000, ante el Tribunal Superior del Distrito Judicial de Cali, Sala Penal.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-23"
+        }
+    },
+    {
+        "id": "caso_040",
+        "texto": "La organización sindical SINTRAINAGRO presenta demanda de fuero sindical ante el Juzgado Laboral del Circuito de Apartadó por el despido de tres trabajadores aforados sin autorización judicial previa, conforme al artículo 405 del Código Sustantivo del Trabajo.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-24"
+        }
+    },
+    {
+        "id": "caso_041",
+        "texto": "La Corte Constitucional mediante sentencia de revisión ordena al ICBF garantizar los derechos de los niños, niñas y adolescentes víctimas del conflicto armado en el departamento del Chocó, conforme a la Ley 1448 de 2011, Ley de Víctimas y Restitución de Tierras.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-25"
+        }
+    },
+    {
+        "id": "caso_042",
+        "texto": "Se presenta acción popular ante el Tribunal Administrativo de Cundinamarca para la protección de los derechos colectivos al espacio público y al medio ambiente sano, conforme a la Ley 472 de 1998 sobre acciones populares y de grupo.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-26"
+        }
+    },
+    {
+        "id": "caso_043",
+        "texto": "El Juzgado Primero Penal del Circuito Especializado de Bogotá conoce del proceso contra la organización criminal liderada por Jhon Fredy Arias por los delitos de concierto para delinquir agravado y lavado de activos, conforme a los artículos 340 y 323 de la Ley 599 de 2000.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-27"
+        }
+    },
+    {
+        "id": "caso_044",
+        "texto": "La trabajadora migrante venezolana Yuliana Paola Mendoza reclama ante el Juzgado Laboral de Bogotá el reconocimiento de sus derechos laborales, incluyendo salario mínimo y afiliación al sistema de seguridad social, conforme al Código Sustantivo del Trabajo y la Ley 1997 de 2019.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-02-28"
+        }
+    },
+    {
+        "id": "caso_045",
+        "texto": "La víctima de violencia intrafamiliar y violencia patrimonial solicita ante el Juzgado de Familia de Montería el divorcio por causal de ultrajes y maltrato, conforme al artículo 154 del Código Civil y la Ley 1257 de 2008 sobre no violencia contra las mujeres.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-01"
+        }
+    },
+    {
+        "id": "caso_046",
+        "texto": "Se adelanta proceso declarativo de responsabilidad contractual ante el Juzgado Noveno Civil del Circuito de Bogotá por incumplimiento de contrato de obra civil, solicitando el pago de perjuicios conforme al artículo 1613 del Código Civil colombiano.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-02"
+        }
+    },
+    {
+        "id": "caso_047",
+        "texto": "La Fiscalía Seccional de Cartagena investiga a Nelson Ricardo Padilla por el delito de inasistencia alimentaria tipificado en el artículo 233 de la Ley 599 de 2000, tras la denuncia presentada por la madre de los menores afectados.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-03"
+        }
+    },
+    {
+        "id": "caso_048",
+        "texto": "El exempleado público Álvaro José Mendoza demanda a la Gobernación del Atlántico ante el Juzgado Administrativo de Barranquilla por el no pago de la bonificación por servicios prestados y la sanción moratoria conforme a la Ley 244 de 1995.",
+        "area_esperada": "Laboral",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-04"
+        }
+    },
+    {
+        "id": "caso_049",
+        "texto": "La madre cabeza de familia interpone acción de tutela ante el Juzgado Promiscuo de Familia de Quibdó para garantizar el derecho a la salud y alimentación de sus hijos menores, invocando la protección especial del artículo 44 de la Constitución Política de Colombia.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-05"
+        }
+    },
+    {
+        "id": "caso_050",
+        "texto": "Se presenta demanda de impugnación de paternidad ante el Juzgado de Familia de Neiva, solicitando prueba de ADN conforme a la Ley 721 de 2001 para establecer la filiación biológica del menor Santiago David Ortiz.",
+        "area_esperada": "Familia",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-06"
+        }
+    },
+    {
+        "id": "caso_051",
+        "texto": "El propietario del inmueble ubicado en el barrio Chapinero de Bogotá interpone demanda de lanzamiento por ocupación de hecho ante el Juzgado Décimo Civil Municipal, conforme al procedimiento establecido en la Ley 1564 de 2012, Código General del Proceso.",
+        "area_esperada": "Civil",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-07"
+        }
+    },
+    {
+        "id": "caso_052",
+        "texto": "Se adelanta audiencia de formulación de acusación contra Wilmer Stiven Rojas por el delito de porte ilegal de armas de fuego tipificado en el artículo 365 de la Ley 599 de 2000, ante el Juzgado Quinto Penal del Circuito de Bucaramanga conforme a la Ley 906 de 2004.",
+        "area_esperada": "Penal",
+        "metadata": {
+            "fuente": "sintético",
+            "fecha_creacion": "2024-03-08"
+        }
+    }
+]

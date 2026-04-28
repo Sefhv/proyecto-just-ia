@@ -1,0 +1,107 @@
+[
+    {
+        "id": "norma_001",
+        "contexto": "Según la Ley 1098 de 2006, Código de la Infancia y la Adolescencia, los niños, las niñas y los adolescentes tienen derecho a la protección contra toda forma de abandono, violencia física o moral, secuestro, venta, abuso sexual, explotación laboral o económica y trabajos riesgosos. El Estado, la sociedad y la familia son corresponsables de garantizar estos derechos. El artículo 18 establece el derecho a la integridad personal, indicando que los niños, las niñas y los adolescentes tienen derecho a ser protegidos contra todas las acciones o conductas que causen muerte, daño o sufrimiento físico, sexual o psicológico. El artículo 20 enumera los derechos de protección, incluyendo la protección contra el abandono físico, emocional y psicoafectivo de sus padres, representantes legales o de las personas, instituciones y autoridades que tienen la responsabilidad de su cuidado y atención. El Instituto Colombiano de Bienestar Familiar (ICBF) es la entidad encargada de coordinar el Sistema Nacional de Bienestar Familiar y de ejecutar las políticas de protección integral de la niñez y la adolescencia en Colombia.",
+        "fuente": "Ley 1098 de 2006 - Código de la Infancia y la Adolescencia",
+        "tema": "Familia",
+        "articulos": ["Art. 18", "Art. 20"]
+    },
+    {
+        "id": "norma_002",
+        "contexto": "La Ley 599 de 2000, Código Penal colombiano, establece en su artículo 103 que el que matare a otro incurrirá en prisión de doscientos ocho (208) a cuatrocientos cincuenta (450) meses. El homicidio es el delito contra la vida y la integridad personal más grave contemplado en la legislación penal colombiana. El artículo 104 define las circunstancias de agravación punitiva del homicidio, entre las cuales se encuentran: que el hecho se cometa en la persona de un ascendiente o descendiente, cónyuge, compañero o compañera permanente, hermano, adoptante o adoptivo, o pariente hasta el segundo grado de afinidad; que se cometa para preparar, facilitar o consumar otra conducta punible; que se cometa por medio de cualquiera de las conductas previstas en el Capítulo II del Título XII y en el Capítulo I del Título XIII del libro segundo de este código; o que se cometa con sevicia. La pena para el homicidio agravado es de cuatrocientos (400) a seiscientos (600) meses de prisión.",
+        "fuente": "Ley 599 de 2000 - Código Penal colombiano",
+        "tema": "Penal",
+        "articulos": ["Art. 103", "Art. 104"]
+    },
+    {
+        "id": "norma_003",
+        "contexto": "El Código Sustantivo del Trabajo de Colombia, en su artículo 62, establece las justas causas para la terminación unilateral del contrato de trabajo. Por parte del empleador, son justas causas: el haber sufrido engaño por parte del trabajador mediante la presentación de certificados falsos para su admisión; todo acto de violencia, injuria, malos tratamientos o grave indisciplina en que incurra el trabajador en sus labores contra el empleador, los miembros de su familia, el personal directivo o los compañeros de trabajo; todo daño material causado intencionalmente a los edificios, obras, maquinarias y materias primas, instrumentos y demás objetos relacionados con el trabajo; todo acto inmoral o delictuoso que el trabajador cometa en el taller, establecimiento o lugar de trabajo; y la detención preventiva del trabajador por más de treinta días, a menos que posteriormente sea absuelto. El artículo 64 establece que en todo contrato de trabajo va envuelta la condición resolutoria por incumplimiento de lo pactado, con indemnización de perjuicios a cargo de la parte responsable.",
+        "fuente": "Código Sustantivo del Trabajo - Colombia",
+        "tema": "Laboral",
+        "articulos": ["Art. 62", "Art. 64"]
+    },
+    {
+        "id": "norma_004",
+        "contexto": "El Código Civil colombiano, en sus artículos 1494 a 1501, regula las fuentes de las obligaciones. El artículo 1494 establece que las obligaciones nacen del concurso real de las voluntades de dos o más personas, como en los contratos o convenciones; de un hecho voluntario de la persona que se obliga, como en la aceptación de una herencia o legado y en todos los cuasicontratos; a consecuencia de un hecho que ha inferido injuria o daño a otra persona, como en los delitos; y por disposición de la ley, como entre los padres y los hijos de familia. El artículo 1495 define el contrato o convención como un acto por el cual una parte se obliga para con otra a dar, hacer o no hacer alguna cosa. El artículo 1502 establece los requisitos para que una persona se obligue a otra por un acto o declaración de voluntad: que sea legalmente capaz, que consienta en dicho acto o declaración y su consentimiento no adolezca de vicio, que recaiga sobre un objeto lícito y que tenga una causa lícita.",
+        "fuente": "Código Civil colombiano",
+        "tema": "Civil",
+        "articulos": ["Art. 1494", "Art. 1495", "Art. 1502"]
+    },
+    {
+        "id": "norma_005",
+        "contexto": "La Ley 1257 de 2008 establece normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres en Colombia. El artículo 2 define la violencia contra la mujer como cualquier acción u omisión que le cause muerte, daño o sufrimiento físico, sexual, psicológico, económico o patrimonial por su condición de mujer, así como las amenazas de tales actos, la coacción o la privación arbitraria de la libertad, bien sea que se presente en el ámbito público o en el privado. El artículo 3 establece que la violencia contra la mujer puede adoptar las siguientes formas: violencia física, entendida como el riesgo o disminución de la integridad corporal; violencia psicológica, como la acción u omisión destinada a degradar o controlar las acciones de la mujer; violencia sexual, que obliga a la mujer a mantener contacto sexual mediante el uso de fuerza o intimidación; violencia patrimonial, que causa daño, pérdida, transformación, sustracción, destrucción o retención de objetos, documentos personales o bienes; y violencia económica, que se dirige a ocasionar un menoscabo en los recursos económicos o patrimoniales de la mujer.",
+        "fuente": "Ley 1257 de 2008 - Violencia contra la mujer",
+        "tema": "Familia",
+        "articulos": ["Art. 2", "Art. 3"]
+    },
+    {
+        "id": "norma_006",
+        "contexto": "La Ley 906 de 2004, Código de Procedimiento Penal colombiano, establece el sistema penal acusatorio en Colombia. El artículo 2 consagra el principio de libertad, indicando que toda persona tiene derecho a que se respete su libertad y que nadie podrá ser molestado en su persona ni privado de su libertad sino en virtud de mandamiento escrito de autoridad judicial competente, emitido con las formalidades legales y por motivos previamente definidos en la ley. El artículo 7 establece la presunción de inocencia, señalando que toda persona se presume inocente y debe ser tratada como tal mientras no quede en firme decisión judicial definitiva sobre su responsabilidad penal. El artículo 8 consagra el derecho de defensa, que comprende el derecho a ser oído, asistido y representado por un abogado de confianza o nombrado por el Estado; a ser informado de la naturaleza de los cargos; a disponer de tiempo razonable para preparar la defensa; a solicitar, conocer y controvertir las pruebas; y a interponer recursos contra las decisiones judiciales. La Fiscalía General de la Nación es la entidad encargada de ejercer la acción penal y realizar la investigación de los hechos que revistan las características de un delito.",
+        "fuente": "Ley 906 de 2004 - Código de Procedimiento Penal",
+        "tema": "Penal",
+        "articulos": ["Art. 2", "Art. 7", "Art. 8"]
+    },
+    {
+        "id": "norma_007",
+        "contexto": "La Ley 100 de 1993 creó el Sistema de Seguridad Social Integral en Colombia, que comprende el Sistema General de Pensiones, el Sistema General de Seguridad Social en Salud, el Sistema General de Riesgos Profesionales y los Servicios Sociales Complementarios. El artículo 10 establece que el Sistema General de Pensiones tiene por objeto garantizar a la población el amparo contra las contingencias derivadas de la vejez, la invalidez y la muerte, mediante el reconocimiento de las pensiones y prestaciones determinadas en la ley. El artículo 11 define los dos regímenes del sistema: el Régimen Solidario de Prima Media con Prestación Definida, administrado por Colpensiones, y el Régimen de Ahorro Individual con Solidaridad, administrado por los fondos privados de pensiones. Para acceder a la pensión de vejez en el régimen de prima media, el trabajador debe haber cumplido 57 años de edad si es mujer o 62 años si es hombre, y haber cotizado un mínimo de 1.300 semanas. El artículo 33 establece los requisitos para obtener la pensión de vejez y el artículo 46 regula la pensión de invalidez por riesgo común.",
+        "fuente": "Ley 100 de 1993 - Sistema de Seguridad Social Integral",
+        "tema": "Laboral",
+        "articulos": ["Art. 10", "Art. 11", "Art. 33", "Art. 46"]
+    },
+    {
+        "id": "norma_008",
+        "contexto": "El Código Civil colombiano regula el régimen de bienes en el matrimonio y la sociedad conyugal. El artículo 1774 establece que a falta de pacto escrito se entenderá, por el mero hecho del matrimonio, contraída la sociedad conyugal con arreglo a las disposiciones del presente título. El artículo 1781 enumera los bienes que componen el haber de la sociedad conyugal, incluyendo los salarios y emolumentos de todo género de empleos y oficios devengados durante el matrimonio, todos los frutos, réditos, pensiones, intereses y lucros de cualquiera naturaleza que provengan de los bienes sociales o de los bienes propios de cada uno de los cónyuges, y todos los bienes que cualquiera de los cónyuges adquiera durante el matrimonio a título oneroso. El artículo 1820 establece las causales de disolución de la sociedad conyugal, entre las cuales se encuentran: la disolución del matrimonio, la separación judicial de cuerpos, la sentencia de separación de bienes y la declaración de nulidad del matrimonio. La liquidación de la sociedad conyugal se realiza conforme a las reglas establecidas en los artículos 1821 y siguientes del Código Civil.",
+        "fuente": "Código Civil colombiano - Régimen de bienes en el matrimonio",
+        "tema": "Familia",
+        "articulos": ["Art. 1774", "Art. 1781", "Art. 1820"]
+    },
+    {
+        "id": "norma_009",
+        "contexto": "La Ley 599 de 2000, Código Penal colombiano, tipifica en su artículo 239 el delito de hurto, estableciendo que el que se apodere de una cosa mueble ajena, con el propósito de obtener provecho para sí o para otro, incurrirá en prisión de treinta y dos (32) a ciento ocho (108) meses. El artículo 240 define el hurto calificado, que se configura cuando el hurto se comete con violencia sobre las personas, colocando a la víctima en condiciones de indefensión o inferioridad, o aprovechándose de tales condiciones; sobre equipaje de viajeros en el transcurso del viaje; sobre vehículos o cosas colocadas en ellos; sobre pertenencias de viajeros en estaciones o terminales de transporte; o mediante escalamiento, o con llave sustraída o falsa, ganzúa o cualquier otro instrumento similar. El artículo 241 establece las circunstancias de agravación punitiva del hurto, como cuando se comete sobre bienes del Estado, sobre medios de transporte, o cuando el valor de lo apropiado supere los diez salarios mínimos legales mensuales vigentes. La pena para el hurto calificado y agravado puede alcanzar hasta dieciséis (16) años de prisión.",
+        "fuente": "Ley 599 de 2000 - Código Penal colombiano",
+        "tema": "Penal",
+        "articulos": ["Art. 239", "Art. 240", "Art. 241"]
+    },
+    {
+        "id": "norma_010",
+        "contexto": "El Código Sustantivo del Trabajo de Colombia, en su artículo 127, define el salario como toda remuneración ordinaria o extraordinaria que recibe el trabajador en dinero o en especie como contraprestación directa del servicio, sea cualquiera la forma o denominación que se adopte, como primas, sobresueldos, bonificaciones habituales, valor del trabajo suplementario o de las horas extras, valor del trabajo en días de descanso obligatorio, porcentajes sobre ventas y comisiones. El artículo 128 establece los pagos que no constituyen salario, como las sumas que ocasionalmente y por mera liberalidad recibe el trabajador del empleador, lo que recibe en dinero o en especie no para su beneficio ni para enriquecer su patrimonio sino para desempeñar a cabalidad sus funciones, y las prestaciones sociales de que tratan los títulos VIII y IX del Código Sustantivo del Trabajo. El artículo 132 regula las formas y libertad de estipulación del salario, permitiendo que empleador y trabajador convengan libremente el salario en sus diversas modalidades, pero respetando siempre el salario mínimo legal o el fijado en los pactos, convenciones colectivas y fallos arbitrales.",
+        "fuente": "Código Sustantivo del Trabajo - Colombia",
+        "tema": "Laboral",
+        "articulos": ["Art. 127", "Art. 128", "Art. 132"]
+    },
+    {
+        "id": "norma_011",
+        "contexto": "El Código Civil colombiano, en su artículo 2341, establece el principio general de responsabilidad civil extracontractual, indicando que el que ha cometido un delito o culpa que ha inferido daño a otro es obligado a la indemnización, sin perjuicio de la pena principal que la ley imponga por la culpa o el delito cometido. El artículo 2343 señala que es obligado a la indemnización el que hizo el daño y sus herederos. El artículo 2356 establece la responsabilidad por actividades peligrosas, indicando que por regla general todo daño que pueda imputarse a malicia o negligencia de otra persona debe ser reparado por esta. La jurisprudencia de la Corte Suprema de Justicia de Colombia ha desarrollado ampliamente la teoría de la responsabilidad civil, estableciendo que para que se configure la responsabilidad extracontractual deben concurrir tres elementos: un hecho generador del daño (acción u omisión), un daño cierto y determinado, y un nexo causal entre el hecho y el daño. La carga de la prueba corresponde al demandante, quien debe acreditar la existencia del daño y la relación de causalidad.",
+        "fuente": "Código Civil colombiano - Responsabilidad civil extracontractual",
+        "tema": "Civil",
+        "articulos": ["Art. 2341", "Art. 2343", "Art. 2356"]
+    },
+    {
+        "id": "norma_012",
+        "contexto": "La Ley 1564 de 2012, Código General del Proceso de Colombia, regula los procedimientos civiles, comerciales, agrarios y de familia. El artículo 2 establece que toda persona o grupo de personas tiene derecho a la tutela jurisdiccional efectiva para el ejercicio de sus derechos y la defensa de sus intereses, con sujeción a un debido proceso de duración razonable. El artículo 82 regula los requisitos de la demanda, estableciendo que toda demanda debe contener: la designación del juez a quien se dirija, el nombre y domicilio de las partes, las pretensiones, los hechos que sirvan de fundamento a las pretensiones, la indicación de las pruebas que se pretenda hacer valer, y los fundamentos de derecho. El artículo 90 establece que el juez admitirá la demanda que reúna los requisitos de ley y le dará el trámite que legalmente le corresponda. El proceso ordinario declarativo se tramita conforme a las reglas del artículo 368 y siguientes, mientras que los procesos verbales sumarios se regulan en el artículo 390. La conciliación prejudicial es requisito de procedibilidad para acudir a la jurisdicción civil en los asuntos susceptibles de conciliación.",
+        "fuente": "Ley 1564 de 2012 - Código General del Proceso",
+        "tema": "Civil",
+        "articulos": ["Art. 2", "Art. 82", "Art. 90"]
+    },
+    {
+        "id": "norma_013",
+        "contexto": "La Ley 1010 de 2006 adopta medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo en Colombia. El artículo 2 define el acoso laboral como toda conducta persistente y demostrable, ejercida sobre un empleado o trabajador por parte de un empleador, un jefe o superior jerárquico inmediato o mediato, un compañero de trabajo o un subalterno, encaminada a infundir miedo, intimidación, terror y angustia, a causar perjuicio laboral, generar desmotivación en el trabajo, o inducir la renuncia del mismo. El artículo 7 enumera las conductas que constituyen acoso laboral, incluyendo: los actos de agresión física; las expresiones injuriosas o ultrajantes sobre la persona con utilización de palabras soeces; los comentarios hostiles y humillantes de descalificación profesional; las amenazas injustificadas de despido; la descalificación humillante de las propuestas u opiniones de trabajo; las burlas sobre la apariencia física o la forma de vestir; y la exigencia de laborar en horarios excesivos. El artículo 10 establece el procedimiento preventivo y correctivo, que incluye la intervención del comité de convivencia laboral como primera instancia.",
+        "fuente": "Ley 1010 de 2006 - Acoso laboral",
+        "tema": "Laboral",
+        "articulos": ["Art. 2", "Art. 7", "Art. 10"]
+    },
+    {
+        "id": "norma_014",
+        "contexto": "La Ley 599 de 2000, Código Penal colombiano, tipifica en su artículo 229 el delito de violencia intrafamiliar, estableciendo que el que maltrate física o psicológicamente a cualquier miembro de su núcleo familiar incurrirá, siempre que la conducta no constituya delito sancionado con pena mayor, en prisión de cuatro (4) a ocho (8) años. La pena se aumentará de la mitad a las tres cuartas partes cuando la conducta recaiga sobre un menor, una mujer, una persona mayor de sesenta y cinco años, o que se encuentre en incapacidad o disminución física, sensorial y psicológica, o quien se encuentre en estado de indefensión. El artículo 230 tipifica el maltrato mediante restricción a la libertad física, estableciendo que el que mediante fuerza restrinja la libertad de locomoción a otra persona mayor de edad perteneciente a su grupo familiar o que esté bajo su cuidado, incurrirá en prisión de uno (1) a tres (3) años. La Ley 1542 de 2012 eliminó el carácter de querellable y desistible de los delitos de violencia intrafamiliar e inasistencia alimentaria, garantizando que estos delitos sean investigados de oficio por la Fiscalía General de la Nación.",
+        "fuente": "Ley 599 de 2000 - Código Penal colombiano / Ley 1542 de 2012",
+        "tema": "Penal",
+        "articulos": ["Art. 229", "Art. 230"]
+    },
+    {
+        "id": "norma_015",
+        "contexto": "El Código Civil colombiano, en su artículo 1045, regula la sucesión intestada en el segundo orden hereditario, estableciendo que si el difunto no deja posteridad, le sucederán sus ascendientes de grado más próximo, su cónyuge o compañero permanente. La herencia se repartirá entre ellos por cabezas. El artículo 1046 establece el tercer orden hereditario, indicando que si el difunto no deja descendientes ni ascendientes, le sucederán sus hermanos y su cónyuge o compañero permanente. La herencia se dividirá la mitad para el cónyuge y la otra mitad para los hermanos por partes iguales. El artículo 1226 define el testamento como un acto más o menos solemne en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días, conservando la facultad de revocar las disposiciones contenidas en él mientras viva. El artículo 1242 establece que no son hábiles para testar los impúberes, los que actualmente no estuvieren en su sano juicio por ebriedad u otra causa, y todo el que de palabra o por escrito no pudiere expresar su voluntad claramente. La Ley 29 de 1982 equiparó los derechos sucesorales de los hijos legítimos, extramatrimoniales y adoptivos en Colombia.",
+        "fuente": "Código Civil colombiano - Sucesiones / Ley 29 de 1982",
+        "tema": "Civil",
+        "articulos": ["Art. 1045", "Art. 1046", "Art. 1226", "Art. 1242"]
+    }
+]
